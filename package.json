@@ -1,0 +1,25 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface that is a command line node app that takes in the parameters and gives you back data, the data given back will be pulled from the spotify, Bands in Town for concerts and OMDB for movies APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honglikehk/LIRIBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honglikehk/LIRIBot/issues"
+  },
+  "homepage": "https://github.com/honglikehk/LIRIBot#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
