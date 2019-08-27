@@ -1,0 +1,108 @@
+
+        Command you typed: "/usr/local/bin/node /Users/sin.jy/Documents/LIRIBot/liri.js concert-this alicia keys"
+        Date and time of Concert: September 21st 2019, 7:30:00 pm
+        Name of Venue: T-Mobile Arena
+        Locaton of Venue: Las Vegas, NV, United States
+
+================
+
+
+  
+        Command you typed: "/usr/local/bin/node /Users/sin.jy/Documents/LIRIBot/liri.js spotify-this-song"
+        Artist(s): Ariana Grande
+        Song Name: thank u, next
+        Album: thank u, next
+        Preview Link: https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ
+
+================
+
+
+  
+        Command you typed: "/usr/local/bin/node /Users/sin.jy/Documents/LIRIBot/liri.js spotify-this-song Baby one more time"
+        Artist(s): Britney Spears
+        Song Name: ...Baby One More Time
+        Album: ...Baby One More Time (Digital Deluxe Version)
+        Preview Link: https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa
+
+================
+
+
+
+      Command you typed: "/usr/local/bin/node /Users/sin.jy/Documents/LIRIBot/liri.js movie-this notebook"
+      Title: Notebook
+      Year: 2019
+      Imbd Rating: undefined
+      Rotten Tomatoes Rating: 25%
+      Country Produced: India
+      Languages of the movie: Hindi
+      Plot of the movie: An ex-army officer, Kabir, becomes a teacher in Kashmir in a school that is in a miserable condition. Things take a turn when Kabir finds a notebook, left behind by the previous year's teacher Firdaus (Pranutan Bahl).
+      Actors: Zaheer Iqbal, Pranutan Bahl, Mir Mohammed Mehroos, Mir Mohammed Zayan
+
+================
+
+
+
+      Command you typed: "/usr/local/bin/node /Users/sin.jy/Documents/LIRIBot/liri.js movie-this the notebook"
+      Title: The Notebook
+      Year: 2004
+      Imbd Rating: undefined
+      Rotten Tomatoes Rating: 53%
+      Country Produced: USA
+      Languages of the movie: English
+      Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.
+      Actors: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner
+
+================
+
+
+        Command you typed: "/usr/local/bin/node /Users/sin.jy/Documents/LIRIBot/liri.js concert-this alicia keys"
+        Date and time of Concert: September 21st 2019, 7:30:00 pm
+        Name of Venue: T-Mobile Arena
+        Locaton of Venue: Las Vegas, NV, United States
+
+================
+
+
+  
+        Command you typed: "/usr/local/bin/node /Users/sin.jy/Documents/LIRIBot/liri.js spotify-this-song"
+        Artist(s): Ariana Grande
+        Song Name: thank u, next
+        Album: thank u, next
+        Preview Link: https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ
+
+================
+
+
+  
+        Command you typed: "/usr/local/bin/node /Users/sin.jy/Documents/LIRIBot/liri.js spotify-this-song baby one more time"
+        Artist(s): Britney Spears
+        Song Name: ...Baby One More Time
+        Album: ...Baby One More Time (Digital Deluxe Version)
+        Preview Link: https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa
+
+================
+
+
+
+      Command you typed: "/usr/local/bin/node /Users/sin.jy/Documents/LIRIBot/liri.js movie-this the notebook"
+      Title: The Notebook
+      Year: 2004
+      Imbd Rating: undefined
+      Rotten Tomatoes Rating: 53%
+      Country Produced: USA
+      Languages of the movie: English
+      Plot of the movie: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.
+      Actors: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner
+
+================
+
+
+  
+        Command you typed: "/usr/local/bin/node /Users/sin.jy/Documents/LIRIBot/liri.js do-what-it-says"
+        Artist(s): Backstreet Boys
+        Song Name: I Want It That Way
+        Album: The Hits--Chapter One
+        Preview Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+
+================
+
