@@ -1,4 +1,5 @@
 // Grab search command line argument
+const fs = require("fs");
 let apiCommand = process.argv[2];
 let search = process.argv[3];
 
@@ -90,7 +91,20 @@ switch (apiCommand) {
     omdbAPI(search, term);
     break;
   case "do-what-it-says":
-    spotifyAPI("track", "I want it that Way");
+    fs.readFile("random.txt", "utf8", function(error, data) {
+      // If the code experiences any errors it will log the error to the console.
+      if (error) {
+        return console.log(error);
+      }
+
+      // Then split it by commas (to make it more readable)
+      let dataArr = data.split(" ");
+
+      search = dataArr[0];
+      term = dataArr.splice(1).join(" ");
+      // We will then re-display the content as an array for later use.
+      spotifyAPI(search, term);
+    });
     break;
   default:
     console.log(
